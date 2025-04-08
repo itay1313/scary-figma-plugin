@@ -1,0 +1,13 @@
+{
+  "name": "Spooky Cursor 👻",
+  "id": "figma-scary-plugin",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"],
+  "permissions": ["currentuser"],
+  "networkAccess": {
+    "allowedDomains": ["https://res.cloudinary.com"],
+    "reasoning": "Required to load scary images from Cloudinary CDN"
+  }
+}
