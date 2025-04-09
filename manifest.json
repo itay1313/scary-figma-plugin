@@ -1,9 +1,10 @@
 {
   "name": "Scare Teammates 👻",
-  "id": "scare-teammates",
+  "id": "1491766053193295454",
   "api": "1.0.0",
   "main": "code.js",
   "ui": "ui.html",
+  "documentAccess": "dynamic-page",
   "editorType": ["figma"],
   "networkAccess": {
     "allowedDomains": ["https://res.cloudinary.com"],
