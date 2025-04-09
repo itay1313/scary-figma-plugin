@@ -1,15 +1,15 @@
-# 👻 Figma Scary Plugin
+# 👻 Scare Teammates
 
-Give your teammates a spooky surprise with this fun Figma plugin! Display scary images that follow the cursor for a brief moment, perfect for Halloween pranks or adding some excitement to your design workspace.
+Give your teammates a spooky surprise with this fun Figma plugin! Perfect for lighthearted pranks or adding some excitement to your design workspace. Create scary images that appear in your canvas with a creepy red glow effect - just when they least expect it!
 
 ## 🎯 Features
 
-- **Precise Cursor Tracking**: Images follow the cursor movement accurately
-- **Customizable Display**: Adjust size, position, and duration of the scary images
+- **Spooky Surprise**: Creates 4 slightly offset copies of your scary image
+- **Red Glow Effect**: Adds an intense red glow to make images extra creepy
 - **Preset Library**: Choose from pre-loaded spooky images
 - **Custom Images**: Upload your own scary images with drag-and-drop support
 - **Preview Support**: See your selected image before deploying it
-- **Quick Undo**: Instantly remove the image if needed
+- **Quick Creation**: Images appear instantly in your canvas
 - **Clean Performance**: No lag or leftover elements
 
 ## 🚀 Installation
@@ -23,21 +23,15 @@ Give your teammates a spooky surprise with this fun Figma plugin! Display scary 
 
 1. Run the plugin from Figma's plugin menu
 2. Choose a preset image or upload your own
-3. Customize the settings:
-   - Display duration (1-10 seconds)
-   - Image size (50-400 pixels)
-   - Offset from cursor (0-100 pixels)
-4. The image will appear next to your cursor and follow it for the specified duration
-5. Use the "Undo" button to remove the image immediately if needed
+3. The image will appear in your canvas with a spooky red glow effect
+4. Watch your teammates jump in surprise! 😱
 
 ## 🎮 Controls
 
 - **Preset Images**: Click on any preset image to use it immediately
 - **Custom Upload**: Drag and drop an image or click the upload zone
-- **Duration**: Slide to adjust how long the image appears (1-10 seconds)
-- **Size**: Adjust the image dimensions (50-400 pixels)
-- **Offset**: Control how far the image appears from the cursor (0-100 pixels)
-- **Undo**: Click the undo button to remove the current image
+- **Preview**: See your selected image before creating it
+- **Send**: Click the send button to create the image in your canvas
 
 ## 🔧 Development
 
@@ -50,10 +44,11 @@ To modify or enhance the plugin:
 
 ## 📝 Notes
 
-- The plugin automatically cleans up images when closed
-- Images are temporarily stored and removed after use
-- Performance optimized for smooth cursor tracking
+- The plugin creates 4 slightly offset copies of your image for maximum spookiness
+- Each image has an intense red glow effect
 - Supports most common image formats
+- Images are positioned in the center of your viewport
+- Use responsibly and have fun! 😄
 
 ## 🤝 Contributing
 
